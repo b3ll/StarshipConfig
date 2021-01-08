@@ -14,6 +14,10 @@ Copy the starship.toml to `~/.config/starship.toml`
 
 [Configure](https://starship.rs/guide/) your prompt (I use [fish shell](https://fishshell.com)).
 
+# Style Notes
+
+If you want the exact prompt I have, use Meslo LG M DZ as the terminal font and [Nord](https://www.nordtheme.com) as the colour scheme. The terminal shown is [iTerm](https://iterm2.com) configured with the minimal style.
+
 # License
 
 *shrugs* 
