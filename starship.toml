@@ -7,7 +7,7 @@ style = "bold green"
 format = "[\\[[$branch$tag](bold green)\\]](bold white)"
 
 [git_status]
-format = ' ([\[$all_status$ahead_behind\]]($style))'
+format = ' ([\[$conflicted$deleted$renamed$modified$staged$untracked$ahead_behind\]]($style))'
 
 [directory]
 style = "bold cyan"
