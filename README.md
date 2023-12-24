@@ -4,7 +4,7 @@ This is my configuration I use for the [starship prompt](https://starship.rs).
 
 I use this primarily for git and seeing what directory I'm in. I don't really care for any of the other features, so ymmv!
 
-![StarshipPromptPreview](https://github.com/b3ll/StarshipConfig/blob/main/Resources/StarshipPrompt.png?raw=true)
+![StarshipPromptPreview](Resources/StarshipPrompt.png)
 
 # Installation
 
