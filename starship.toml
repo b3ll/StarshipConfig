@@ -1,10 +1,11 @@
 format = """
-[$directory](bold cyan)($git_branch$git_state$git_status)
+[$directory](bold cyan)($git_branch$git_state$git_status$git_metrics)
 $time $hostname $username [»](bold green) """
 
 [git_branch]
 style = "bold green"
-format = "[\\[[$branch$tag](bold green)\\]](bold white)"
+format = "[\\[[$symbol$branch$tag](bold green)\\]](bold white)"
+symbol = "\ue725 "
 
 [git_status]
 format = ' ([\[$conflicted$deleted$renamed$modified$staged$untracked$ahead_behind\]]($style))'
